@@ -41,6 +41,7 @@ _Software / Packages Required_
  * Matplotlib
  * pandas_profiling
  * Seaborn
+ * Tabulate
 
 1. Click on clone / download the repository and download the zipped file.
 2. Unzip the file and open the unzipped folder. 
